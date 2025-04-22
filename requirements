@@ -1,0 +1,12 @@
+streamlit
+flask
+pandas
+openpyxl
+python-docx
+fpdf
+spacy
+nltk
+beautifulsoup4
+requests
+sqlalchemy
+mysql-connector-python
